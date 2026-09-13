@@ -8,27 +8,26 @@ Estou direcionando minha carreira para **Desenvolvimento Backend**, com foco na 
 
 Tenho desenvolvido projetos práticos envolvendo **arquitetura de aplicações, PostgreSQL, concorrência, idempotência, processamento assíncrono, testes automatizados, Docker e serviços AWS**, buscando evoluir continuamente em boas práticas de engenharia de software.
 
+---
+
 ## 🛠️ Tecnologias
 
-**Backend**
-Java • Spring Boot • REST APIs • JPA/Hibernate • Maven
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,aws,terraform,docker,postgres,git,python&perline=8" />
+</p>
 
-**Cloud & Infraestrutura**
-AWS • Lambda • API Gateway • DynamoDB • SQS • S3 • Cognito • Terraform • Docker
+**Backend:** Java • Spring Boot • REST APIs • JPA/Hibernate • Maven
 
-**Banco de Dados**
-PostgreSQL • DynamoDB • SQL
+**Cloud & Infraestrutura:** AWS • Lambda • API Gateway • DynamoDB • SQS • S3 • Cognito • Terraform
 
-**Testes & Ferramentas**
-JUnit • Mockito • Testcontainers • Git • GitHub Actions
+**Testes:** JUnit • Mockito • Testcontainers
 
-**Complementares**
-Python
+---
 
 ## 📚 Atualmente estudando
 
-* Arquitetura e boas práticas para aplicações backend
 * Java e Spring Boot
+* Arquitetura de aplicações backend
 * APIs REST e integração com bancos de dados
 * AWS e arquitetura Serverless
 * Terraform e Infrastructure as Code
@@ -36,14 +35,18 @@ Python
 * Docker e CI/CD
 * Concorrência e processamento assíncrono
 
+---
+
 ## 🎓 Formação
 
 **Bacharelado em Engenharia de Software**
 UNOPAR — em andamento
 
-## 📊 Estatísticas
+---
 
-<p>
+## 📊 GitHub
+
+<p align="left">
   <img 
     height="180"
     src="https://github-readme-stats.vercel.app/api?username=fabricio443&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
@@ -56,9 +59,11 @@ UNOPAR — em andamento
 
 </p>
 
+---
+
 ## 📬 Contato
 
-<p>
+<p align="left">
   <a href="https://www.linkedin.com/in/fabriciohcosta/" target="_blank">
     <img 
       alt="LinkedIn" 
