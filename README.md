@@ -5,7 +5,7 @@
 
 <p>
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/fabr%C3%ADcio-costa-9b2859330/" target="_blank">
+  <a href="https://www.linkedin.com/in/fabriciohcosta/" target="_blank">
     <img 
       alt="LinkedIn" 
       title="LinkedIn" 
