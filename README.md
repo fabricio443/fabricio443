@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Fabrício Costa
 
-🎓 Estudante de Engenharia de Software
-💻 Foco em Desenvolvimento Backend
+🎓 Estudante de Engenharia de Software  
+💻 Foco em Desenvolvimento Backend  
 ☁️ Java • Spring Boot • AWS • Terraform
 
 Estou direcionando minha carreira para **Desenvolvimento Backend**, com foco na construção de APIs REST, integração com bancos de dados e desenvolvimento de aplicações utilizando Java e Spring Boot.
@@ -26,20 +26,20 @@ Tenho desenvolvido projetos práticos envolvendo **arquitetura de aplicações, 
 
 ## 📚 Atualmente estudando
 
-* Java e Spring Boot
-* Arquitetura de aplicações backend
-* APIs REST e integração com bancos de dados
-* AWS e arquitetura Serverless
-* Terraform e Infrastructure as Code
-* Testes automatizados
-* Docker e CI/CD
-* Concorrência e processamento assíncrono
+- Java e Spring Boot
+- Arquitetura de aplicações backend
+- APIs REST e integração com bancos de dados
+- AWS e arquitetura Serverless
+- Terraform e Infrastructure as Code
+- Testes automatizados
+- Docker e CI/CD
+- Concorrência e processamento assíncrono
 
 ---
 
 ## 🎓 Formação
 
-**Bacharelado em Engenharia de Software**
+**Bacharelado em Engenharia de Software**  
 UNOPAR — em andamento
 
 ---
@@ -47,16 +47,14 @@ UNOPAR — em andamento
 ## 📊 GitHub
 
 <p align="left">
-  <img 
+  <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=fabricio443&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    src="https://github-stats-extended.vercel.app/api?username=fabricio443&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
-
-<img 
- height="180"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabricio443&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8"
-/>
-
+  <img
+    height="180"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=fabricio443&layout=compact&langs_count=8&custom_title=Tecnologias&theme=tokyonight"
+  />
 </p>
 
 ---
@@ -65,21 +63,21 @@ UNOPAR — em andamento
 
 <p align="left">
   <a href="https://www.linkedin.com/in/fabriciohcosta/" target="_blank">
-    <img 
-      alt="LinkedIn" 
-      title="LinkedIn" 
-      width="30px" 
-      style="padding-right: 10px;" 
+    <img
+      alt="LinkedIn"
+      title="LinkedIn"
+      width="30px"
+      style="padding-right: 10px;"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
     />
   </a>
 
   <a href="mailto:fabriciohcosta@outlook.com.br">
-    <img 
-      alt="Email" 
-      title="Email" 
-      width="30px" 
-      style="padding-right: 10px;" 
+    <img
+      alt="Email"
+      title="Email"
+      width="30px"
+      style="padding-right: 10px;"
       src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"
     />
   </a>
